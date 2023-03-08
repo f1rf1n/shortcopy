@@ -1,0 +1,6 @@
+{
+  "php.format.rules.alignConsecutiveAssignments": false,
+  "php.debug.port": [
+    9003
+  ]
+}
